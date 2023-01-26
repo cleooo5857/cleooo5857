@@ -2,11 +2,11 @@
 <h1>Language 💪</h1> 
 
 <div>
-    <img src="https://img.shields.io/badge/ECD53F-FF4154?style=flat&logo=TypeScript&logoColor=white"/>
-     <img src="https://img.shields.io/badge/React-1572B6?style=flat&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-ECD53F?style=flat&logo=JavaScript&logoColor=white"/>
+     <img src="https://img.shields.io/badge/React-1572B6?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS-00B265?style=flat&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/HTML5-FF4154?style=flat&logo=TypeScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS-00B265?style=flat&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-FF4154?style=flat&logo=HTML5&logoColor=white"/>
     
 <div/>
 
