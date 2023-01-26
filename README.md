@@ -1,7 +1,15 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hwang%Soonwook&fontSize=40&fontAlign=70&rotate=13&fontAlignY=25&desc=Hello,Welcome.&descAlign=70.&descAlignY=44)
-<h1>Language 💪</h1> 
 
-<div>
+<div align=center>
+    <h3>Technology stack Hi, I'm developing a react</br>
+I will continue to grow and become a developer who is not complacent.</h3>
+</div>
+
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+</div>
+
+<div align="center">
     <img src="https://img.shields.io/badge/JavaScript-ECD53F?style=flat&logo=JavaScript&logoColor=white"/>
      <img src="https://img.shields.io/badge/React-1572B6?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/TypeScript-000?style=flat&logo=TypeScript&logoColor=white"/>
@@ -10,7 +18,9 @@
     
 <div/>
 
-<h2>Tool</h2> 
+<div align=center>
+	<h3>🛠 ibrary 🛠</h3>
+</div>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=TypeScript&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=TypeScript&logoColor=white"/> 
   
