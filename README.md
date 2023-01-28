@@ -23,4 +23,5 @@ I will continue to grow and become a developer who is not complacent.</h3>
 </div>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> 
+	<img src="https://img.shields.io/badge/Redux Saga-B32024?style=flat&logo=Redux-Saga&logoColor=white"/> 
   
