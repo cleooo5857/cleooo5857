@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=Hwang%Soonwook&fontSize=40&fontAlign=70&rotate=13&fontAlignY=25&desc=Hello,Welcome.&descAlign=70.&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=b2c4df&height=200&text=Hwang%Soonwook&fontSize=40&fontAlign=70&rotate=13&fontAlignY=25&desc=Hello,Welcome.&descAlign=70.&descAlignY=44)
 
 <div align=center>
     <h3>Technology stack Hi, I'm developing a react</br>
