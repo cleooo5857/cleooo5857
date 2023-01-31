@@ -19,7 +19,7 @@ I will continue to grow and become a developer who is not complacent.</h3>
 <div/>
 
 <div align=center>
-	<h3>📒 Tech Stack </h3>
+	<h3>📒 library </h3>
 </div>
 
 	
