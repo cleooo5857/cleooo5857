@@ -6,7 +6,7 @@ I will continue to grow and become a developer who is not complacent.</h3>
 </div>
 
 <div align=center>
-	<h3>📚 Tech Stack 📚</h3>
+	<h3>📘 Tech Stack </h3>
 </div>
 
 <div align="center">
@@ -19,7 +19,7 @@ I will continue to grow and become a developer who is not complacent.</h3>
 <div/>
 
 <div align=center>
-	<h3>🛠 Library 🛠</h3>
+	<h3>📕 Library </h3>
 </div>
   <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/> 
