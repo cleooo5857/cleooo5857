@@ -1,8 +1,8 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=b2c4df&height=200&text=Hwang%Soonwook&fontSize=40&fontAlign=70&rotate=13&fontAlignY=25&desc=Hello,Welcome.&descAlign=70.&descAlignY=44)
 
 <div align=center>
-    <h3>Technology stack Hi, I'm developing a react</br>
-I will continue to grow and become a developer who is not complacent.</h3>
+    <h3>안녕하세요 Hwang Soonwook 오신걸 환영합니다.</br>
+목표를 설정하고 달성하는 Front-end 개발자를 꿈꾸고 있습니다.</h3>
 </div>
 
 <div align=center>
